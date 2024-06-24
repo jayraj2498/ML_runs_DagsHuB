@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/CS_proj/mlruns/0/fd1099f922744773b98bdd07ed301e96/artifacts
+end_time: 1719214888727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd1099f922744773b98bdd07ed301e96
+run_name: bold-gnat-190
+run_uuid: fd1099f922744773b98bdd07ed301e96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719214884607
+status: 3
+tags: []
+user_id: Jayraj
